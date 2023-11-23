@@ -42,7 +42,7 @@ def open_file(dataset):
         # Load Matlab array
         # return io.loadmat(dataset)
         import h5py
-        return h5py.File(dataset).transpose(1, 2, 0)
+        return h5py.File(dataset)
     elif ext == '.tif' or ext == '.tiff':
         # Load TIFF file
         return imageio.imread(dataset)
