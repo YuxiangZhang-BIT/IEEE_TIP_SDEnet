@@ -1,9 +1,11 @@
 # Single-source Domain Expansion Network for Cross-Scene Hyperspectral Image Classification
 
-## Update 09/2023: SDEnet won the Highly Cited Paper.
+## Update 12/2023: SDEnet won the Hot Paper.
 <p align='center'>
   <img src='figure/SDEnet-ESI.png' width="800px">
 </p>
+
+## Update 09/2023: SDEnet won the Highly Cited Paper.
 
 Paper web page: [Single-source Domain Expansion Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10050427/).
 
